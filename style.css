@@ -1,0 +1,21 @@
+body {
+  padding-top: 56px; /* space for fixed navbar */
+}
+
+footer {
+  background-color: #343a40;
+  color: white;
+  padding: 20px 0;
+}
+
+footer a {
+  color: white;
+  margin: 0 10px;
+  font-size: 1.5rem;
+  transition: color 0.3s;
+}
+
+footer a:hover {
+  color: #0d6efd;
+  text-decoration: none;
+}
